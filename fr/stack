@@ -1,0 +1,7 @@
+InactiveELB      InactiveELB-227625242.ap-northast-1.elb.amazonaws.com
+CiAccessIp       52.197.131.248
+ActiveELB        ActiveELB-1613817285.ap-northeast-1.elb.amazonaws.com
+LbSecurityGroup  sg-1837797c
+SshSecurityGroup sg-lf37797b
+
+
